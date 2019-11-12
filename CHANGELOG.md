@@ -13,9 +13,9 @@ _Note: Gaps between patch versions are faulty, broken or test releases._
 
 ## v3.0.0-beta.90 (2019-11-12)
 
-#### :house: New Feature
+#### :house: Internal
 
-* [Remove `es` config property validation](https://github.com/V4Fire/Core/pull/42)
+* [Removed `es` config property validation](https://github.com/V4Fire/Core/pull/42)
 
 ## v3.0.0-beta.89 (2019-11-12)
 
